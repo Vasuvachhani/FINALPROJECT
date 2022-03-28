@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ff0000</color>
+    <color name="color_text_reminder_msg">#000000</color>
+    <color name="color_lv_divider">#ff0000</color>
+    <color name="color_popup_buttons">#000000</color>
+</resources>
